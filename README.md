@@ -1,18 +1,12 @@
-### Hi there 👋
 
-<!--
-**ChrisEuristic/ChrisEuristic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisEuristic&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisEuristic)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://img.shields.io/badge/-TypeScript-blue">&nbsp;<img src="https://img.shields.io/badge/-JavaScript-yellow">&nbsp;<img src="https://img.shields.io/badge/-HTML5/CSS-purple">&nbsp;<img src="https://img.shields.io/badge/-React.JS-orange">&nbsp;<img src="https://img.shields.io/badge/-Node.js-success">&nbsp;<img src="https://img.shields.io/badge/-Express.js-green">
+<br>
+<img src="https://img.shields.io/badge/-TensorFlow-blueviolet">&nbsp;<img src="https://img.shields.io/badge/-Raspberry Pi-skyblue">
+<br>
+<img src="https://img.shields.io/badge/-Java-ff0000">&nbsp;<img src="https://img.shields.io/badge/-Spring Boot-red">&nbsp;<img src="https://img.shields.io/badge/-Servlet JSP-yellow">
+<br>
+<img src="https://img.shields.io/badge/-MySQL-gray">
