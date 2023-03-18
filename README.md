@@ -8,4 +8,4 @@
 <br>
 <img src="https://img.shields.io/badge/-Java-ff0000">&nbsp;<img src="https://img.shields.io/badge/-Spring Boot-red">&nbsp;<img src="https://img.shields.io/badge/-Servlet JSP-yellow">
 <br>
-<img src="https://img.shields.io/badge/-MySQL-gray">&nbsp;<img src="https://img.shields.io/badge/-TensorFlow-blueviolet">&nbsp;<img src="https://img.shields.io/badge/-Raspberry Pi-skyblue">&nbsp;<img src="https://img.shields.io/badge/-Photoshop-0000DD">&nbsp;<img src="https://img.shields.io/badge/-Figma-4444ff">
+<img src="https://img.shields.io/badge/-MS Office-gray">&nbsp;<img src="https://img.shields.io/badge/-MySQL-gray">&nbsp;<img src="https://img.shields.io/badge/-TensorFlow-blueviolet">&nbsp;<img src="https://img.shields.io/badge/-Raspberry Pi-skyblue">&nbsp;<img src="https://img.shields.io/badge/-Photoshop-0000DD">&nbsp;<img src="https://img.shields.io/badge/-Figma-4444ff">
