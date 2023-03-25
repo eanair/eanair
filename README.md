@@ -10,11 +10,10 @@
 <img src="https://img.shields.io/badge/-React.JS-orange">&nbsp;
 <img src="https://img.shields.io/badge/-Node.js-success">&nbsp;
 <img src="https://img.shields.io/badge/-Express.js-green">&nbsp;
-<img src="https://img.shields.io/badge/-Dart-blue">&nbsp;
-<img src="https://img.shields.io/badge/-Flutter-skyblue">
+<img src="https://img.shields.io/badge/-Flutter-blue">
 <br>
 <img src="https://img.shields.io/badge/-Java-ff0000">&nbsp;
-<img src="https://img.shields.io/badge/-Spring Boot-red">&nbsp;
+<img src="https://img.shields.io/badge/-Spring Boot-green">&nbsp;
 <img src="https://img.shields.io/badge/-Servlet JSP-yellow">
 <br>
 <img src="https://img.shields.io/badge/-MS Office-gray">&nbsp;
