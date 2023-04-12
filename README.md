@@ -6,6 +6,28 @@
 
 
 <details>
+  <summary><h2>Toy Project: Virtual G-Manager System Web Platform (2023.04.05 ~ )</h2></summary>
+  
+  ## Skill Stack
+  #### Front Side: Monitoring
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-React.JS 18.2.0-61DAFB?logo=react&logoColor=white"> <img src="https://img.shields.io/badge/-VS Code 1.77.0-007ACC?logo=visual studio code&logoColor=white">
+
+  #### Back Side - Database Server
+  <img src="https://img.shields.io/badge/-Spring Boot 3.0.5-6DB33F?logo=spring boot&logoColor=white">
+  <img src="https://img.shields.io/badge/-JDK 17-FF2222?logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/-STS 4.18.0-6DB33F?logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/-Maven-C71A36?logo=apache maven&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white">
+  
+  #### Back Side - Virtual Manager
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white">
+
+<br><br><br><br>
+</details>
+
+
+<details>
   <summary><h2>Personal Project: CMMS-A/S System Web Platform (2023.03.02 ~ )</h2></summary>
   
   ## Skill Stack
