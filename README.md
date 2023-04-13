@@ -6,7 +6,7 @@
 
 
 <details>
-  <summary><h2>Toy Project: Virtual G-Manager System Web Platform (2023.04.05 ~ )</h2></summary>
+  <summary><h2>Toy Project: Virtual G-Manager System Web Platform (2023.04.05 ~ 2023.04.12)</h2></summary>
   
   ## Skill Stack
   #### Front Side: Monitoring
