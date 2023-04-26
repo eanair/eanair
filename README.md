@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white">
   
   #### Data Analysis & AI Modeling
-  <img src="https://img.shields.io/badge/-Python 3.11.2-3776AB?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/-VS Code 1.77.0-007ACC?logo=visual studio code&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python 3.11.2-3776AB?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/-Sciket-learn-F7931E?logo=sciket-learn&logoColor=white"> <img src="https://img.shields.io/badge/-VS Code 1.77.0-007ACC?logo=visual studio code&logoColor=white">
 
 <br><br><br><br>
 </details>
