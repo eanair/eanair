@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/-STS 4.18.0-6DB33F?logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/-Maven-C71A36?logo=apache maven&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/-H2-4479A1?logo=h2&logoColor=white">
   
   #### Data Analysis & AI Modeling
   <img src="https://img.shields.io/badge/-Python 3.10.11-3776AB?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/-Sciket learn-F7931E?logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/-VS Code 1.77.0-007ACC?logo=visual studio code&logoColor=white">
