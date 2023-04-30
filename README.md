@@ -4,6 +4,29 @@
 
 <img src="https://img.shields.io/badge/-eanair@kakao.com-3178C6?logo=mail.ru&logoColor=white"> <a href="https://open.kakao.com/o/sO6YhZcf" target="_blank"><img src="https://img.shields.io/badge/-Kakao Talk-FFCD00?logo=kakaotalk&logoColor=white"></a>
 
+
+<details>
+  <summary><h2>Personal Project: Analysis & Advice (2023.05.01 ~ )</h2></summary>
+  
+  ## Skill Stack
+  #### Front Side: Web Page
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-React.JS 18.2.0-61DAFB?logo=react&logoColor=white"> <img src="https://img.shields.io/badge/-VS Code 1.77.0-007ACC?logo=visual studio code&logoColor=white">
+
+  #### Back Side - Database Server
+  <img src="https://img.shields.io/badge/-Spring Boot 3.0.5-6DB33F?logo=spring boot&logoColor=white">
+  <img src="https://img.shields.io/badge/-JDK 17-FF2222?logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/-STS 4.18.0-6DB33F?logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/-Maven-C71A36?logo=apache maven&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/-H2-4479A1?logo=h2&logoColor=white">
+  
+  #### Data Analysis & AI Modeling
+  <img src="https://img.shields.io/badge/-Python 3.10.11-3776AB?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white"> <img src="https://img.shields.io/badge/-Sciket learn-F7931E?logo=scikitlearn&logoColor=white"> <img src="https://img.shields.io/badge/-VS Code 1.77.0-007ACC?logo=visual studio code&logoColor=white">
+
+<br><br><br><br>
+</details>
+
+
 <details>
   <summary><h2>Team Project-PCTC: Prediction of container terminal congestion (2023.04.25 ~ )</h2></summary>
   
