@@ -10,9 +10,9 @@
   
   ## Skill Stack
   #### Front Side: Web Page
-  <img src="https://img.shields.io/badge/-Next.JS 13.3.3-000000?logo=next.js&logoColor=white"> 
-  <img src="https://img.shields.io/badge/-React.JS 18.2.0-61DAFB?logo=react&logoColor=white"> 
-  <img src="https://img.shields.io/badge/-VS Code 1.77.0-007ACC?logo=visual studio code&logoColor=white">
+  <img src="https://img.shields.io/badge/-Next.JS 13.4.2-000000?logo=next.js&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-React.JS 18.2.0-61DAFB?logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/-VS Code 1.78.0-007ACC?logo=visual studio code&logoColor=white">
 
   #### Back Side - Database Server
   <img src="https://img.shields.io/badge/-Spring Boot 3.0.5-6DB33F?logo=spring boot&logoColor=white">
@@ -33,10 +33,10 @@
   
   ## Skill Stack
   #### Front Side: Web Page
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/-React.JS 18.2.0-61DAFB?logo=react&logoColor=white"> 
-  <img src="https://img.shields.io/badge/-VS Code 1.77.0-007ACC?logo=visual studio code&logoColor=white">
+  <img src="https://img.shields.io/badge/-Next.JS 13.4.2-000000?logo=next.js&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-TypeScript 5.0.4-3178C6?logo=typescript&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-Tailwind 3.3.2-06B6D4?logo=tailwindcss&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-VS Code 1.78.0-007ACC?logo=visual studio code&logoColor=white">
 
   #### Back Side - Database Server
   <img src="https://img.shields.io/badge/-Spring Boot 3.0.5-6DB33F?logo=spring boot&logoColor=white">
@@ -45,12 +45,14 @@
   <img src="https://img.shields.io/badge/-Maven-C71A36?logo=apache maven&logoColor=white">
   <br>
   <img src="https://img.shields.io/badge/-H2-4479A1?logo=h2&logoColor=white">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white">
   
   #### Data Analysis & AI Modeling
   <img src="https://img.shields.io/badge/-Python 3.10.11-3776AB?logo=python&logoColor=white"> 
+  <img src="https://img.shields.io/badge/-Flask 2.3.2-000000?logo=flask&logoColor=white"> 
   <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white"> 
   <img src="https://img.shields.io/badge/-Sciket learn-F7931E?logo=scikitlearn&logoColor=white"> 
-  <img src="https://img.shields.io/badge/-VS Code 1.77.0-007ACC?logo=visual studio code&logoColor=white">
+  <img src="https://img.shields.io/badge/-VS Code 1.78.0-007ACC?logo=visual studio code&logoColor=white">
 
 <br><br><br><br>
 </details>
