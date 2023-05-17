@@ -42,7 +42,7 @@
   <img src="https://img.shields.io/badge/-Spring Boot 3.0.5-6DB33F?logo=spring boot&logoColor=white">
   <img src="https://img.shields.io/badge/-JDK 17-FF2222?logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/-STS 4.18.0-6DB33F?logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/-Maven-C71A36?logo=apache maven&logoColor=white">
+  <img src="https://img.shields.io/badge/gradle-02303A?logo=gradle">
   <br>
   <img src="https://img.shields.io/badge/-H2-4479A1?logo=h2&logoColor=white">
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white">
