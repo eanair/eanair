@@ -6,7 +6,7 @@
 
 # Project
 
-### [Toy Project: Diary (2023.05.23 ~ )](https://github.com/ChrisEuristic/ToyProject_Diary)
+### [Toy Project: Community (2023.05.23 ~ )](https://github.com/ChrisEuristic/ToyProject_Diary)
 ### [Toy Project: Twitter Clone coding (2023.05.21 ~ 05.21)](https://github.com/ChrisEuristic/ToyProject_Cwitter)
 ### [Side Project: Analysis & Advice (2023.05.01 ~ )](https://github.com/ChrisEuristic/Project_4A)
 ### [Team Project-PCTC: Prediction of container terminal congestion (2023.04.25 ~ )](https://github.com/ChrisEuristic/TeamProject_PCTC/)
