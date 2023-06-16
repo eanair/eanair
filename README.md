@@ -11,7 +11,7 @@
 ### [Toy Project: Twitter Clone coding (2023.05.21 ~ 05.21)](https://github.com/ChrisEuristic/ToyProject_Cwitter)
 ### [Team Project-PCTC: Prediction of container terminal congestion (2023.04.25 ~ )](https://github.com/ChrisEuristic/TeamProject_PCTC/)
 ### [Toy Project: Virtual G-Manager System Web Platform (2023.04.05 ~ 2023.04.12)](https://github.com/ChrisEuristic/ToyProject_G-Manager/)
-
+### [Toy Project: Kick The Poo! (2022.01.25 ~ 2023.02.05)](https://github.com/ChrisEuristic/ToyProject_KickThePoo#readme)
 
 # Stack
 
