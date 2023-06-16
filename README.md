@@ -17,15 +17,11 @@
 
 ### Language
 
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white">   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white">   <img src="https://img.shields.io/badge/-Java-FF2222?logo=openjdk&logoColor=white">   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white">   <img src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white">   <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white">   <img src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white">   <img src="https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white">   <img src="https://img.shields.io/badge/-Java-FF2222?logo=openjdk&logoColor=white">   <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white">
 
-### Framework
+### Framework & Library
 
-  <img src="https://img.shields.io/badge/-Next.JS-000000?logo=next.js&logoColor=white">   <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white">  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white">   <img src="https://img.shields.io/badge/-React Native-61DAFB?logo=react&logoColor=white">   <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?logo=spring boot&logoColor=white">
-
-### Library
-
-  <img src="https://img.shields.io/badge/-React.JS-61DAFB?logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/-Next.JS-000000?logo=next.js&logoColor=white">  <img src="https://img.shields.io/badge/-React.JS-61DAFB?logo=react&logoColor=white">  <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white">  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white">  <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?logo=spring boot&logoColor=white">
 
 ### SQL
 
