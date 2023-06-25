@@ -7,7 +7,7 @@
 # Project
 
 ### [Assignments: Pre-interview assignments (2023.05.24 ~ )](https://github.com/ChrisEuristic/Assignments_PreInterviewAssignment)
-### [Side Project: Community & Advice service (2023.05.23 ~ )](https://github.com/ChrisEuristic/ToyProject_Diary)
+### [Side Project: Who-ami (2023.05.23 ~ )](https://github.com/ChrisEuristic/ToyProject_Diary)
 ### [Toy Project: Twitter Clone coding (2023.05.21 ~ 05.21)](https://github.com/ChrisEuristic/ToyProject_Cwitter)
 ### [Team Project-PCTC: Prediction of container terminal congestion (2023.04.25 ~ )](https://github.com/ChrisEuristic/TeamProject_PCTC/)
 ### [Toy Project: Virtual G-Manager System Web Platform (2023.04.05 ~ 2023.04.12)](https://github.com/ChrisEuristic/ToyProject_G-Manager/)
