@@ -1,26 +1,40 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feanair&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Dev.to](https://img.shields.io/badge/dev.to-blog-0A0A0A?style=round-square&logo=devdotto&logoColor=white)](https://dev.to/eanair)
-<img src="https://img.shields.io/badge/-eanair@kakao.com-3178C6?logo=mail.ru&logoColor=white">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=eanair&column=4&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=eanair&show_icons=true&count_private=true&hide_border=true)
-
-![C++](https://img.shields.io/badge/-C++-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=fff)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=fff)
+# Hi There! 🖖
 
 
-# Development
 
-> Keytopia Web Service `3D Model Simulation Service` `On-Premise Server(Ubuntu 22.04)` `Github Action CI/CD`
-> 
-> CFD Simulation Data To 3D Model Processing Engine `C++ Wasm`
->
-> GIS Based Digital-Twin Platform `Cesium`
->
-> GIS Computing Util Library `NPM Library`
->
-> SWIR Image Signal Processing Algorithm `Dark-Current Correction` `High Dynamic Range` `Auto Exposure`
->
-> Vector & Polyline Edit Tool On Canvas `FabricJS`
+## Technologies & Tools
 
+![OS](https://img.shields.io/badge/OS-MacOS-blue?style=flat&logo=apple&logoColor=white)
+![OS](https://img.shields.io/badge/OS-Ubuntu-blue?style=flat&logo=ubuntu&logoColor=white)
+
+![Editor](https://img.shields.io/badge/Editor-VS%20Code-blue?style=flat&logo=xcode&logoColor=white)
+![Editor](https://img.shields.io/badge/Editor-Cursor-blue?style=flat&logo=xcode&logoColor=white)
+![Editor](https://img.shields.io/badge/Editor-Xcode-blue?style=flat&logo=xcode&logoColor=white)
+
+![Tool](https://img.shields.io/badge/Tool-Vite-blue?tyle=flat&logo=vite&logoColor=white)
+![Tool](https://img.shields.io/badge/Tool-ReactJS-blue?tyle=flat&logo=react&logoColor=white)
+![Tool](https://img.shields.io/badge/Tool-NestJS-blue?style=flat&logo=nestjs&logoColor=white)
+![Tool](https://img.shields.io/badge/Tool-Docker-blue?style=flat&logo=docker&logoColor=white)
+![Tool](https://img.shields.io/badge/Tool-Podman-blue?style=flat&logo=podman&logoColor=white)
+![Tool](https://img.shields.io/badge/Tool-Jenkins-blue?style=flat&logo=jenkins&logoColor=white)
+![Tool](https://img.shields.io/badge/Tool-PostgesSQL-blue?style=flat&logo=postgresql&logoColor=white)
+![Tool](https://img.shields.io/badge/Tool-OpenStreetMap-blue?style=flat&logo=openstreetmap&logoColor=white)
+![Tool](https://img.shields.io/badge/Tool-CesiumJS-blue?style=flat&logo=cesium&logoColor=white)
+![Tool](https://img.shields.io/badge/Tool-Torch-blue?style=flat&logo=pytorch&logoColor=white)
+
+![Shell](https://img.shields.io/badge/Shell-Zsh-blue?style=flat&logo=zsh&logoColor=white)
+
+![Codes](https://img.shields.io/badge/Code-TypeScript-blue?style=flat&logo=typescript&logoColor=white)
+![Codes](https://img.shields.io/badge/Code-C-blue?style=flat&logo=c&logoColor=white)
+![Codes](https://img.shields.io/badge/Code-WebAssembly-blue?style=flat&logo=webassembly&logoColor=white)
+![Codes](https://img.shields.io/badge/Code-Python-blue?style=flat&logo=python&logoColor=white)
+
+## Published
+
+[![Raycast Plugin](https://img.shields.io/badge/Raycast-SSHFS%20Manager-gray?style=flat&logo=raycast&logoColor=white&logoSize=25&label=Raycast&labelColor=red)](https://www.raycast.com/eanair/sshfs-manager)
+
+
+## Social
+
+[![Dev.to](https://img.shields.io/badge/Dev.to-Blog-blue?logo=devdotto&logoColor=white)](https://dev.to/eanair)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=invision&logoColor=white)](www.linkedin.com/in/건-고-b00507281)
